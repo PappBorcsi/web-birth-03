@@ -23,6 +23,7 @@
   "devDependencies": {
     "@quasar/app-vite": "^2.0.8",
     "@quasar/app-webpack": "^4.0.8",
+    "@tailwindcss/postcss7-compat": "^2.2.17",
     "@tsconfig/node22": "^22.0.0",
     "@types/node": "^22.13.1",
     "@types/vue-router": "^2.0.0",
